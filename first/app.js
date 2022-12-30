@@ -1,2 +1,4 @@
 let n = "Pocinjemo da ucimo JavuScript";
-console.log(n);
+for (let i = 0; i < 5; i++) {
+    console.log(n);
+}
