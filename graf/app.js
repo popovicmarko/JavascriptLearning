@@ -13,7 +13,7 @@ var chart = new Chart(ctx, {
       borderColor: 'rgb(255, 99, 132)',
       data: [] // Ovdje ćemo dodati vrijednosti funkcije
     }]
-  },
+  }
   options: {
     scales: {
       xAxes: [{
