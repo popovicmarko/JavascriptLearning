@@ -24,7 +24,7 @@ var chart = new Chart(ctx, {
   }
 });
 
-// Dodajemo vrijednosti funkcije u dataset
+// Dodajemo vrijednosti funkcije u 
 for (var x = -2; x <= 2; x += 0.1) {
   chart.data.datasets[0].data.push({x: x, y: Math.log(x)/x});
 }
