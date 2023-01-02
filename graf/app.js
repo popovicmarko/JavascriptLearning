@@ -18,7 +18,7 @@ var chart = new Chart(ctx, {
     scales: {
       xAxes: [{
         type: 'linear',
-        position: 'bottom'
+        position: 'bottom',
       }]
     }
   }
@@ -29,5 +29,5 @@ for (var x = -2; x <= 2; x += 0.1) {
   chart.data.datasets[0].data.push({x: x, y: Math.log(x)/x});
 }
 
-// Prikazujemo grafik
+
 chart.update();
