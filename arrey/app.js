@@ -52,3 +52,5 @@ listBuy3= listBuy.concat(listBuy2, listBuy2);
 console.log(listBuy3)
 let valueIndex= listBuy3.indexOf('Pop', 8);
 console.log(valueIndex)
+
+//===================================================================================
