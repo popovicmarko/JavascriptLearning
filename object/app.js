@@ -7,5 +7,5 @@ let myCar= {
 };
 
 myCar['color']= 'bleck';
-console.log(myCar)
+console.log(myCar);
 
