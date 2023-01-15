@@ -1,5 +1,5 @@
 
-let myCar= {
+let myCar = {
     model : 'BMW',
     marka : 'E46',
     age : 2005,
