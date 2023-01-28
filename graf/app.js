@@ -1,4 +1,4 @@
-// Dohvatimo element canvas
+// Dohvatimo element canvas.
 var canvas = document.getElementById('myCanvas');
 
 // Kreiramo Chart.js grafik
