@@ -1,5 +1,5 @@
 
-let myCar= {
+let myCar = {
     model : 'BMW',
     marka : 'E46',
     age : 2005,
@@ -7,5 +7,5 @@ let myCar= {
 };
 
 myCar['color']= 'bleck';
-console.log(myCar)
+console.log(myCar);
 
