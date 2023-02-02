@@ -10,5 +10,5 @@ function findLargestNumber(array) {
   
   let numbers = [4, 2, 9, 1, 3, 6];
   let largest = findLargestNumber(numbers);
-  console.log(largest);
+  console.log(largest)
   
